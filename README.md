@@ -39,8 +39,10 @@ git clone <this repo's full URL>
 ```
 2. Download all the neccessary dependencies by using this command in Terminal
 ```
-pip install requests markitdown #requests are used to send HTTP requests, markitdown used only in api_parser.py (see the Overview)
+pip install requests markitdown
 ```
+Requests are used to send HTTP requests, markitdown used only in api_parser.py (see the Overview)
+
 3. Now you can run the code
 
 ### Good luck on your programming journew - I know you can do whatever you wish!
